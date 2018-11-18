@@ -1,0 +1,14 @@
+D:\Users\stels\Desktop\Сортировки\FourSort\FourSort\bin\Debug\FourSort.exe.config
+D:\Users\stels\Desktop\Сортировки\FourSort\FourSort\bin\Debug\FourSort.exe
+D:\Users\stels\Desktop\Сортировки\FourSort\FourSort\bin\Debug\FourSort.pdb
+D:\Users\stels\Desktop\Сортировки\FourSort\FourSort\obj\Debug\FourSort.csprojAssemblyReference.cache
+D:\Users\stels\Desktop\Сортировки\FourSort\FourSort\obj\Debug\FourSort.csproj.CoreCompileInputs.cache
+D:\Users\stels\Desktop\Сортировки\FourSort\FourSort\obj\Debug\FourSort.exe
+D:\Users\stels\Desktop\Сортировки\FourSort\FourSort\obj\Debug\FourSort.pdb
+D:\Users\stels\Documents\GitHub\sorting\FourSort\bin\Debug\FourSort.exe.config
+D:\Users\stels\Documents\GitHub\sorting\FourSort\bin\Debug\FourSort.exe
+D:\Users\stels\Documents\GitHub\sorting\FourSort\bin\Debug\FourSort.pdb
+D:\Users\stels\Documents\GitHub\sorting\FourSort\obj\Debug\FourSort.csprojAssemblyReference.cache
+D:\Users\stels\Documents\GitHub\sorting\FourSort\obj\Debug\FourSort.csproj.CoreCompileInputs.cache
+D:\Users\stels\Documents\GitHub\sorting\FourSort\obj\Debug\FourSort.exe
+D:\Users\stels\Documents\GitHub\sorting\FourSort\obj\Debug\FourSort.pdb
